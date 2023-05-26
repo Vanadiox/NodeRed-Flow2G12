@@ -8,7 +8,7 @@ En esta práctica se realizará el segundo ejercicio de nodos utilizando NodeRed
 
 2. Al igual que el ejercicio anterior, se debe contar con una máquina virtual con Linux. En este caso se utilizó Ubuntu 22.04, Docker y Docker compose, al igual que tener instada las imágenes de NodeRed
 
-##Instrucciones. 
+## Instrucciones. 
 
 En esta ocasión se va a trabajar sobre el trabajo _Flow 1_. Para ello vaya al menú de hamburguesa que se encuentra en la parte superior derecha de la pantalla y seleccione _export_.
 
